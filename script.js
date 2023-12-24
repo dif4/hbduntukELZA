@@ -7,7 +7,7 @@ const noBtn = document.querySelector(".no-btn");
 yesBtn.addEventListener("click", () => {
   question.innerHTML = "OKEE INI ELZA YA!! TAU KAN HARI INI HARI APA?!! AKU ADA HADIAH BUATMU, INI.";
   gif.src =
-    "https://giphy.com/gifs/no-ji6zzUZwNIuLS";
+    "https://github.com/dif4/hbduntukELZA/assets/77387192/9b5aa94c-fa46-43c8-931c-8161de31b303";
 });
 
 noBtn.addEventListener("mouseover", () => {
