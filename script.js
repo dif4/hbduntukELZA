@@ -5,9 +5,9 @@ const yesBtn = document.querySelector(".yes-btn");
 const noBtn = document.querySelector(".no-btn");
 
 yesBtn.addEventListener("click", () => {
-  question.innerHTML = "Aaaaa, I like you too";
+  question.innerHTML = "OKEE INI ELZA YA!! TAU KAN HARI INI HARI APA?!! AKU ADA HADIAH BUATMU, INI.";
   gif.src =
-    "https://raw.githubusercontent.com/DzarelDeveloper/Img/main/gif.webp";
+    "https://giphy.com/gifs/no-ji6zzUZwNIuLS";
 });
 
 noBtn.addEventListener("mouseover", () => {
